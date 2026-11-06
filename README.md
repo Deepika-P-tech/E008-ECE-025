@@ -82,7 +82,7 @@ python billing.py
 5. Run the automated tests:
 
 ```bash
-python -m unittest test_billing.py
+python -m unittest -v
 ```
 
 ## 9. Project Structure
@@ -93,6 +93,7 @@ E008-ECE-025/
 ├── main.py
 ├── billing.py
 ├── test_billing.py
+├── test_wallet.py
 ├── commands.txt
 │
 ├── chargers.csv
@@ -103,7 +104,13 @@ E008-ECE-025/
 ├── invoices.csv
 ├── wallet_ledger.csv
 ├── daily_revenue.csv
-└── blocked_users.csv
+├── blocked_users.csv
+│
+├── README.md
+├── DESIGN_DOCUMENT.md
+├── DECISION_LOG.md
+├── TEST_REPORT.md
+└── DEMO_SCRIPT.md
 ```
 
 ## 10. Expected Outcome
