@@ -1,0 +1,12 @@
+# ECE-025 command file - load the four files, process all events in time order, then print
+LOAD_CHARGERS|chargers.csv
+LOAD_USERS|users.csv
+LOAD_SESSIONS|sessions.csv
+LOAD_TOPUPS|topups.csv
+PROCESS_EVENTS
+DAILY_REPORT|2026-10-12
+DAILY_REPORT|2026-10-13
+DAILY_REPORT|2026-10-14
+DAILY_REPORT|2026-10-15
+DAILY_REPORT|2026-10-16
+BLOCKED_USERS

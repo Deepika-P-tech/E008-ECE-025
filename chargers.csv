@@ -1,0 +1,16 @@
+charger_id,charger_type,location,city
+CHG-01,AC_7KW,Orion Mall Rajajinagar,Bengaluru
+CHG-02,DC_30KW,Phoenix Marketcity Whitefield,Bengaluru
+CHG-03,AC_7KW,Nexus Koramangala,Bengaluru
+CHG-04,DC_30KW,Electronic City Phase 1 Hub,Bengaluru
+CHG-05,DC_60KW,Hebbal Flyover Plaza,Bengaluru
+CHG-06,AC_7KW,NICE Road Toll Plaza,Bengaluru
+CHG-07,DC_30KW,Mysuru Road Highway Stop,Ramanagara
+CHG-08,DC_30KW,Tumakuru Road Food Court,Nelamangala
+CHG-09,AC_7KW,Hosur Road Fuel Plaza,Attibele
+CHG-10,DC_60KW,Kempegowda Airport P4,Devanahalli
+CHG-11,DC_30KW,Manyata Tech Park Gate 5,Bengaluru
+CHG-12,DC_60KW,Indiranagar 100 Ft Road,Bengaluru
+CHG-13,DC_30KW,Mysuru Ring Road Hub,Mysuru
+CHG-14,AC_7KW,Chikkaballapur Highway Stop,Chikkaballapur
+CHG-15,AC_7KW,JP Nagar 24th Main,Bengaluru
