@@ -113,7 +113,7 @@ E008-ECE-025/
 └── DEMO_SCRIPT.md
 ```
 ## 10.Project Demonstration
-Demonstration Video: https://drive.google.com/file/d/14C5nv6sAgLed88VYN_-EJvJ0BaM2cawZ/view?usp=drivesdk
+Demonstration Video: https://drive.google.com/file/d/1KM45pR5_ybUFkZvrIby8aS5fWZMOXd3i/view?usp=drive_link
 
 The demonstration covers the application workflow, execution, generated reports and selected edge-case validations.
 
