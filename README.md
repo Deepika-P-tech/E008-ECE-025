@@ -112,8 +112,12 @@ E008-ECE-025/
 ├── TEST_REPORT.md
 └── DEMO_SCRIPT.md
 ```
+## 10.Project Demonstration
+Demonstration Video: https://drive.google.com/file/d/14C5nv6sAgLed88VYN_-EJvJ0BaM2cawZ/view?usp=drivesdk
 
-## 10. Expected Outcome
+The demonstration covers the application workflow, execution, generated reports and selected edge-case validations.
+
+## 11. Expected Outcome
 
 The system automates EV charging session billing, wallet management, transaction tracking, user blocking, and charger-wise revenue reporting using Python and CSV files.
 
